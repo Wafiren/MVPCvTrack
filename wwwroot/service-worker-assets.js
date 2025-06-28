@@ -1,14 +1,6 @@
 self.assetsManifest = {
-  "version": "cdhTNy2F",
+  "version": "Ff7en/Tj",
   "assets": [
-    {
-      "hash": "sha256-5Tubp+SruKO4/MnQgWbXqiACQYZ7ArBiew3Pl044cj8=",
-      "url": ".gitattributes"
-    },
-    {
-      "hash": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
-      "url": ".nojekyll"
-    },
     {
       "hash": "sha256-QI0mv/3Fzdqugz5sFLofl68aHGzBtR+BazJQh+tJ0nE=",
       "url": "BlazorApp1.styles.css"
